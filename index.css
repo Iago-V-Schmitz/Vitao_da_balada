@@ -1,9 +1,23 @@
-title{
+h1 {
     color: red;
 }
-p{
+
+#txt{
     font-weight: bold;
 }
-img{
-    size: 400px 600px;
+
+img {
+    width: 600px;
+    height: 400px;
+}
+
+#a {
+    width: 100px;
+    height: 20px;
+
+}
+
+#b{
+    color: white;
+    background-color: black;
 }
